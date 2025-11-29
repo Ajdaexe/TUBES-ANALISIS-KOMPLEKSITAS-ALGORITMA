@@ -1,5 +1,5 @@
 # TUBES-ANALISIS-KOMPLEKSITAS-ALGORITMA
-#### Nama Anggota :
+#### Nama Anggota Kelompok :
 
 ```
 1. Ajda Mutiara Zahra (103112400210)
