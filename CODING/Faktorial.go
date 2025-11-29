@@ -34,8 +34,8 @@ func measureTime(n int64, f func(int64) int64) float64 {
 }
 
 func main() {
-	
-	inputs := []int64{3000, 8000, 31000, 49000, 56000, 131000}
+	inputs := []int64{3000, 8000, 31000, 49000, 56000, 131000, 211000}
+
 
 	ptsIterative := make(plotter.XYs, len(inputs))
 	ptsRecursive := make(plotter.XYs, len(inputs))
