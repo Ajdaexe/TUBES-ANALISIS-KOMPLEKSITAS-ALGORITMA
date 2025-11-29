@@ -1,4 +1,9 @@
-# TUBES-ANALISIS-KOMPLEKSITAS-ALGORITMA
+(ง •_•)ง 🩷 O(BU MAEI)
+⟱ 🚧
+KITA -> (ᐛ )و O(TUBES-ANALISIS-KOMPLEKSITAS-ALGORITMA)
+⟱ 🚧🚧
+(ง'̀-'́)ง O(HOREE JADII) 
+
 #### Nama Anggota Grup اَللهُ أَكْبَرُ :
 
 ```
