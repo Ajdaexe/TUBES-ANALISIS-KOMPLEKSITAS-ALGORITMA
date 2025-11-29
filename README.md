@@ -1,5 +1,5 @@
 # TUBES-ANALISIS-KOMPLEKSITAS-ALGORITMA
-#### Nama Anggota Kelompok :
+#### Nama Anggota Grup اَللهُ أَكْبَرُ :
 
 ```
 1. Ajda Mutiara Zahra (103112400210)
